@@ -1,5 +1,0 @@
-struct Weather {
-    let cityName: String
-    let temperature: Double
-    let description: String
-}
